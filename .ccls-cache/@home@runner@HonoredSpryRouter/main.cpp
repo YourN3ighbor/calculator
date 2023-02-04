@@ -7,7 +7,7 @@ double FoundCos(float num)
   return std::cos(num);
 }
 
-
+//useless text
 
 int main() 
 {
